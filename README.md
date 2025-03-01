@@ -20,3 +20,5 @@ Simulate inter-process communication between a parent and child process using pi
 - The program successfully simulates inter-process communication where the child executes `ls -l` and sends the output to the parent through the pipe.
 - The parent process reads from the pipe and outputs the result to the console.
 - Gained a better understanding of `fork()`, pipes, and the use of `dup2()` and `execlp()` for process management.
+
+[Click here to watch the video](./OS%20Feb%2028%202025.mp4)
